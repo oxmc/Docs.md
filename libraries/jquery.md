@@ -13,7 +13,7 @@ To use Jquery 3.4.0
 <script src="!{GriphLib}/js/jquery-3.4.0.min.js"></script>
 ```
 
-To use FontAwesome 4.7.0
+To use Jquery 3.4.1
 ```html
-<link rel="stylesheet" src="!{GriphLib}/css/fa-4.7.0-min.css" />
+<script src="!{GriphLib}/js/jquery-3.4.1.min.js"></script>
 ```
